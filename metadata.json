@@ -1,0 +1,5 @@
+{
+  "name": "RCT Randomization System",
+  "description": "A web-based system for randomly assigning participants to experimental groups in a Randomized Controlled Trial (RCT), supporting both simple and stratified randomization methods.",
+  "requestFramePermissions": []
+}
